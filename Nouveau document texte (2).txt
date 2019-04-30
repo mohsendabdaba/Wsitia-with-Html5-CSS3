@@ -1,0 +1,131 @@
+.box1 a:before{
+    content:"";
+    display:block;
+    transform:translateY(+20px);
+    background-color: gray;
+
+}
+.box1 a:after{
+    content:"";
+    display:block;
+    transform:translateY(+20px);
+    background-color:white;
+
+}
+.box1 a:hover:before{
+    
+    translate:translateY(20px);
+    transition:0.8s
+
+}
+.box1 a:hover:after{
+    transform:translateY(20px);
+    transition:0.8s
+
+}
+
+
+
+
+
+
+
+
+
+
+.box1 h1 {
+    position:absolute;
+    color:white;
+    font-size:40px;
+    top:300px;
+    left:100px;
+    scroll-snap-align: start;
+}
+
+.box1 h2 {
+    position:absolute;
+    color:black;
+    font-size:40px;
+    top:292px;
+    left:370px;
+    scroll-snap-align: start;
+
+}
+.box1 h3 {
+    position:absolute;
+    color:black;
+    font-size:40px;
+    top:340px;
+    left:100px;
+    scroll-snap-align: start;
+}
+.box1 a  {
+    border:1px solid white;
+    border-radius: 4px;
+    padding: 20px 50px;
+    font-size:20px;
+    font-family:"montserrat";
+    cursor: pointer;
+    position:absolute;
+    top:450px;
+    left:100px;
+    color:black;
+    transform:translateY(20px);
+    transition: 0.8s;
+    background-color:white;
+    
+}
+
+.threebox {
+    display:flex;
+    flex-direction:row; 
+    height:400px;
+}
+.box2{
+background-color:#FF8C00;
+width: 33%;
+position: absolute;
+padding:0px;
+margin-top:0px;
+}
+.box3{
+    background-color:#20B2AA;
+    width:33%;
+    height:400px;
+    position: absolute;
+    padding:0px;
+    margin-top:0px;
+   
+    }
+.box4{
+        background-color:#8470FF;
+        width:33%;
+        height:400px;
+        position: absolute;
+        padding:0px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<title> wistia</title>
+    <img src="https://nsa40.casimages.com/img/2019/03/09/mini_190309070117798493.png" border="0" alt="image 5"/> 
+    <h4>Wistia for Marketing</h4> 
+     <h4> Soapbox</h4> 
+     <h4> Learning Center </h4> 
+     <h4> Video Series </h4>
+    <button type="button" onclick="alert('Hello World!')"> Login </button> 
+    <br>
+    <button type="button" onclick="alert('hello World!') " > Get started </button> 
+
+    <link rel="stylesheet" href ="style.css"/>

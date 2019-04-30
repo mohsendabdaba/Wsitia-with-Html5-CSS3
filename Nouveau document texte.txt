@@ -1,0 +1,72 @@
+<html>
+  <head>
+    <title> wistia</title>
+     <head>
+   <body>
+     
+     <div>
+     
+         <h1>Video software for
+          the video-loving business
+         </h1>
+        <button type="button" onclick="alert('Hello World!')">watch video </button>
+         <br>
+         <img src="https://i.imgur.com/NCUGQtX.png">
+        </img>
+          
+    </div>
+    
+                         <section>
+         
+        <div>
+          <img src="https://imgur.com/a/qDncExJ"></img>
+         <h2>Wistia Hosting: Market your videos</h2>
+         </p>
+         Try our sleek, customizable player, advanced tools for marketers, and detailed analytics. Learn more</p>
+         <button type="button" onclick="alert('Hello World!')"> start for free </button>
+    
+        </div>
+  
+       <div>
+         <img src="https://imgur.com/a/JC6kXRB" alt="logo2"></img>
+         <h2>Soapbox: Create new videos, fast</h2>
+         </p>
+         Make professional videos in minutes with just your computer’s camera and a smile. Learn more</p>
+         <button type="button" onclick="alert('Hello World!')"> start for free </button>
+      </div> 
+
+      <div>
+         <img src="https://imgur.com/a/Dx0R88O" alt="logo3"></img>
+         <h2>Grow your video skills</h2>
+         </p>
+         In-depth guides for making, marketing, and measuring videos. Get inspired and get shooting.</p>
+         <button type="button" onclick="alert('Hello World!')"> explore and learn </button>
+      </div>       
+
+                      </section>
+<div>
+  <p> Wistia is proud to help over 300,000 businesses grow with video.</p>
+  <img src="https://imgur.com/a/E2Yzktc" alt="logo3"></img>
+
+
+
+
+
+
+
+    
+       </section>
+         
+         
+     
+     
+     
+     
+     
+     
+      </body>
+  
+  
+  
+ </html>   
+  
